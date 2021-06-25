@@ -1,8 +1,8 @@
 function DisplayFlight(props) {
-    const {flyFrom, flyTo, cityFrom, cityTo, price, airlines, dTime ,aTime,route} = props.flight;
+    const {flyFrom, flyTo, cityFrom, cityTo, price, airlines, dTime ,aTime, route } = props.flight;
     const{ flight_no } = route[0];
     const stopover = route.findIndex((routePart) => routePart.flyTo === flyTo)
-        
+
     return (
 
                 <tr>

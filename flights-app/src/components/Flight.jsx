@@ -1,14 +1,9 @@
 import DisplayFlight from "./DisplayFlight";
-import { DateTime } from 'luxon';
-// DateTime.fromMillis(datetimeFromREST * 1000).toFormat('hh:mm')
-
 
 function Flight(props) {
     
-    // const {flyFrom, flyTo, cityFrom, cityTo, price, airlines, flight_no} = props.flights;
-
-    if(props.flights.length === 0){
-        return(
+    if(props.flights.length === 0 ){
+        return (
             <span>No flights for this route! </span>
         )
     }
