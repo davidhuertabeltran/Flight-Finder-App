@@ -1,0 +1,1 @@
+https://api.skypicker.com/flights?cityFrom=Prague&cityTo=Valencia&date_from=26/06/2021&date_to=27/06/2021&return_from=26/06/2021&return_to=27/06/2021&locale=en&partner=data4youcbp202106&v=3&curr=EUR&price_from=1&price_to=10000&limit=5

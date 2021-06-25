@@ -17,3 +17,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.table_flights {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.table_flights thead tr {
+  background-color: #0881b1;
+  color: #ffffff;
+  text-align: left;
+}
+
+.table_flights th,
+.table_flights td {
+  padding: 12px 15px;
+}
+
+.table_flights tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.table_flights tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.table_flights tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+
+
