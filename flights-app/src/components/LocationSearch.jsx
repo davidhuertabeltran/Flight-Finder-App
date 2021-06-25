@@ -29,8 +29,6 @@ function LocationSearch(props){
             setLoaded(true)
     }  
         
-   
-
     const handleCity = (e) => {
         fetchCity(e.target.value);
         
