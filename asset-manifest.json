@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Flight-Finder-App/static/css/main.d72a67bd.chunk.css",
+    "main.js": "/Flight-Finder-App/static/js/main.15ccbd08.chunk.js",
+    "main.js.map": "/Flight-Finder-App/static/js/main.15ccbd08.chunk.js.map",
+    "runtime-main.js": "/Flight-Finder-App/static/js/runtime-main.1c45b2df.js",
+    "runtime-main.js.map": "/Flight-Finder-App/static/js/runtime-main.1c45b2df.js.map",
+    "static/js/2.e5f05b2d.chunk.js": "/Flight-Finder-App/static/js/2.e5f05b2d.chunk.js",
+    "static/js/2.e5f05b2d.chunk.js.map": "/Flight-Finder-App/static/js/2.e5f05b2d.chunk.js.map",
+    "index.html": "/Flight-Finder-App/index.html",
+    "static/css/main.d72a67bd.chunk.css.map": "/Flight-Finder-App/static/css/main.d72a67bd.chunk.css.map",
+    "static/js/2.e5f05b2d.chunk.js.LICENSE.txt": "/Flight-Finder-App/static/js/2.e5f05b2d.chunk.js.LICENSE.txt",
+    "static/media/world.a017e3b9.svg": "/Flight-Finder-App/static/media/world.a017e3b9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c45b2df.js",
+    "static/js/2.e5f05b2d.chunk.js",
+    "static/css/main.d72a67bd.chunk.css",
+    "static/js/main.15ccbd08.chunk.js"
+  ]
+}
